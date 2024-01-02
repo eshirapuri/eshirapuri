@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **SQL**
 
-- 💬 Ask me about **Manual Testing , Game Testing , Software Testing , API Testing , OOPs , Agile Methodology ,SDLC , JIRA**
+- 💬 Ask me about **Manual Testing, Game Testing, Software Testing, API Testing, OOPs, Agile Methodology, SDLC, JIRA, SQL**
 
 - 📫 How to reach me **ektashirapuri007@gmail.com**
 
