@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eshirapuri&label=Profile%20views&color=0e75b6&style=flat" alt="eshirapuri" /> </p>
 
-- 🌱 I’m currently learning **SQL**
+- 🌱 I’m currently learning **Automation**
 
 - 💬 Ask me about **Manual Testing, Game Testing, Software Testing, API Testing, OOPs, Agile Methodology, SDLC, JIRA, SQL**
 
