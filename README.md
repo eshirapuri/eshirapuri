@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Ekta Shirapuri</h1>
-<h3 align="center">Experienced Senior QA Tester with 3+ years in manual and automation testing, skilled in Selenium and Java</h3>
+<h3 align="center">Experienced Senior QA Tester with 4+ years in manual and automation testing, skilled in Selenium and Java</h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/241765453-85cb9521-97c0-4a65-9358-7db8099fac7f.gif">
 
